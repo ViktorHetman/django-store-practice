@@ -1,0 +1,12 @@
+# created by virtualenv automatically
+.venv/Lib
+.pylintrc
+__pycache__/
+
+#ide
+.idea
+.vscode
+
+#django
+db.sqlite3
+media/
